@@ -1,0 +1,4 @@
+baixei java 8
+baixei o spring boot:
+https://start.spring.io/
+dependencies: spring web, spring boot dev tools
